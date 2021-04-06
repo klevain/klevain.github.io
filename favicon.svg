@@ -13,6 +13,20 @@
             <use width="22.8247" height="53.5807" transform="translate(20.5884 5.179)"
                 xlink:href="#K-hand" />
         </symbol>
+<style>
+
+.white {
+    fill: #fff;
+}
+
+.red {
+    fill: #ff2c00;
+}
+
+.black {
+    fill: #000;
+}
+    </style>
     </defs>
     <use width="64" height="64" xlink:href="#Logo" />
 </svg>
